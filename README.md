@@ -1,10 +1,10 @@
-# 📱 WhatsApp Web Clone - Full Stack MERN Application
+#  WhatsApp Web Clone - Full Stack MERN Application
 
 A premium, high-performance WhatsApp Web clone featuring real-time messaging, glassmorphism UI, and seamless user experience. Built with the modern MERN stack and Socket.IO.
 
 ![WhatsApp Clone](https://raw.githubusercontent.com/santhoshs2004/whatsapp_clone/main/frontend/public/favicon.ico)
 
-## ✨ Features
+##  Features
 
 - **Real-time Messaging**: Instant message delivery using Socket.IO.
 - **Glassmorphism UI**: Stunning, modern design with smooth animations and transitions.
@@ -15,7 +15,7 @@ A premium, high-performance WhatsApp Web clone featuring real-time messaging, gl
 - **Auto-scroll**: Smart message scrolling for better readability.
 - **Search Functionality**: Easily find users to start new conversations.
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React 18** (Vite)
@@ -30,7 +30,7 @@ A premium, high-performance WhatsApp Web clone featuring real-time messaging, gl
 - **Socket.IO**
 - **CORS**
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v16+)
@@ -90,7 +90,7 @@ cd whatsapp-web-clone
    npm run dev
    ```
 
-## 🔐 Environment Variables
+##  Environment Variables
 
 ### Backend (`/backend/.env`)
 | Variable | Description | Default |
@@ -106,7 +106,7 @@ cd whatsapp-web-clone
 | `VITE_BACKEND_URL` | Backend server root | `http://localhost:5000` |
 | `VITE_SOCKET_URL` | Socket server URL | `http://localhost:5000` |
 
-## 📁 Project Structure
+##  Project Structure
 
 ```txt
 whatsapp-web-clone/
@@ -126,7 +126,7 @@ whatsapp-web-clone/
 └── README.md
 ```
 
-## 🤝 Contributing
+##  Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ---
