@@ -2,7 +2,7 @@
 
 A premium, high-performance WhatsApp Web clone featuring real-time messaging, glassmorphism UI, and seamless user experience. Built with the modern MERN stack and Socket.IO.
 
-![WhatsApp Clone](https://raw.githubusercontent.com/santhoshs2004/whatsapp_clone/main/frontend/public/favicon.ico)
+
 
 ##  Features
 
